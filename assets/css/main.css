@@ -1,11 +1,7 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,900");
 
-/*
-	Phantom by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, h7, h8, p, blockquote,
@@ -336,12 +332,26 @@ width:50%;
 	margin: -0.95 auto 5em;
 	}
 
+
 	.font_purple{
 	color: #6C7CEB;
 	font-weight: bold;
 	font-size: 1.8em;
 	margin: 0 0 -1.5em 0em;
 	}
+
+	.footer_bottom_grey{
+	padding: 5em 0 6em 0 ;
+	background-color: #f6f6f6;
+	}
+
+/* <img src="yourimagepath" class="fix"/>       WILL MAKE YOUR IMAGE BOTTOM WILL SCROLL WITH PAGE*/
+	.fixbottom{
+        position:fixed;
+        bottom:0px;
+        left:50%;
+    }
+
 
 
 
@@ -3136,8 +3146,8 @@ em is the space between get in touch and icon boxes*/
 
 				#header .logo .symbol img {
 					display: block;
-					width: 2em;
-					height: 2em;
+					width: 2.8em;
+					height: 2.8em;
 				}
 
 		#header nav {
@@ -3448,7 +3458,7 @@ em is the space between get in touch and icon boxes*/
 /* Footer */
 
 	#footer {
-		padding: 5em 0 6em 0 ;
+		padding: 5em 0 1em 0 ;
 		background-color: #f6f6f6;
 
 	}
