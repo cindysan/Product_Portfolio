@@ -345,6 +345,8 @@ width:50%;
 	background-color: #f6f6f6;
 	}
 
+
+
 /* <img src="yourimagepath" class="fix"/>       WILL MAKE YOUR IMAGE BOTTOM WILL SCROLL WITH PAGE*/
 	.fixbottom{
         position:fixed;
@@ -3459,7 +3461,7 @@ em is the space between get in touch and icon boxes*/
 
 	#footer {
 		padding: 5em 0 1em 0 ;
-		background-color: #f6f6f6;
+		background-color: #F2EBFF;
 
 	}
 
