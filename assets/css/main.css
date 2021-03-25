@@ -194,6 +194,11 @@ background-color: transparent;
 padding: 1em 1em 1em 9em;
 }
 
+.wrappersmall2 {
+background-color: transparent;
+padding: 1em 1em 1em 4em;
+}
+
 
 
 
@@ -320,7 +325,7 @@ width:50%;
 
 	p {
 		margin: -0.95em auto 2em;
-		max-width: 50em;
+		max-width: 52em;
 		font-size: 1em;
 	}
 
